@@ -11,7 +11,7 @@
     compatibility = {
       'amazon-fireos': ['darwin', 'win32', 'linux'],
       'android': ['darwin', 'win32', 'linux'],
-      'blackberry10': ['darwin', 'win32'],
+      'blackberry10': ['darwin', 'win32', 'linux'],
       'firefoxos': ['darwin', 'win32', 'linux'],
       'ios': ['darwin'],
       'ubuntu': ['linux'],
